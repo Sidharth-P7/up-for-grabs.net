@@ -10,7 +10,7 @@ This repository contains the content for the [Up-For-Grabs website](https://up-f
 
 ## List your project
 
-If you know of or own a project that should be listed on Up for Grabs,
+If you know  or own a project that should be listed on Up for Grabs,
 [follow the instructions to open a pull request](docs/list-a-project.md).
 
 ## Contributing
